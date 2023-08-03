@@ -1,8 +1,25 @@
 import React from 'react'
+import { google, slack, atlassian, dropbox, shopify } from "./imports"
 import "./brand.css"
 
 export default function Brand() {
     return (
-        <div>Brand</div>
+        <div className='gpt3__brand '>
+            <div>
+                <img src={google} />
+            </div>
+            <div>
+                <img src={slack} />
+            </div>
+            <div>
+                <img src={atlassian} />
+            </div>
+            <div>
+                <img src={dropbox} />
+            </div>
+            <div>
+                <img src={shopify} />
+            </div>
+        </div>
     )
 }
