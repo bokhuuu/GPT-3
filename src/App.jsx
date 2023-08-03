@@ -1,5 +1,7 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react'
 
+// eslint-disable-next-line no-unused-vars
 import { Header, WhatGPT3, Features, Possibility, Blog, Footer } from "./containers"
 import { Navbar, Brand, CTA } from "./components"
 import "./App.css"
