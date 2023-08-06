@@ -1,8 +1,15 @@
 # React + Vite
+# Project Name
+GPT-3
+# Project Link
+You can find the live version of this project here:
+[GPT-3](https://celebrated-twilight-42be43.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Add, edit, and delete tasks
+Persist tasks to localStorage
+Simple and easy to use
+Technologies Used
+React
+Redux
+localStorage
