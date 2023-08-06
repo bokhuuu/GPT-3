@@ -1,6 +1,6 @@
 # General
 -  View the optimal layout for the site depending on their device's screen size  
--Use internal links for navigation  
+- Use internal links for navigation  
 # Project Name
 GPT-3
 # Project Link and Screenshot
