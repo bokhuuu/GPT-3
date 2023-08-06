@@ -4,7 +4,8 @@ GPT-3
 # Project Link
 You can find the live version of this project here:
 [Live Site](https://celebrated-twilight-42be43.netlify.app/)
-(https://github.com/bokhuuu/GPT-3/assets/126252413/67ba5255-466f-41a4-9e63-d00b9ed05afc)
+
+![Screenshot from 2023-08-06 17-03-29](https://github.com/bokhuuu/GPT-3/assets/126252413/6612da45-8d45-4cf0-8672-1475a2576c7a)
  
  Features
 Add, edit, and delete tasks
@@ -14,3 +15,5 @@ Technologies Used
 React
 Redux
 localStorage
+
+
