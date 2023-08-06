@@ -1,8 +1,8 @@
 # Project Name
 GPT-3
 # General
-[View the optimal layout for the site depending on their device's screen size]
-[Use internal links for navigation] 
+-[View the optimal layout for the site depending on their device's screen size]  
+-[Use internal links for navigation] 
 # Project Link
 [Live](https://gpt-3-deployed.netlify.app/)
 # Screenshot
