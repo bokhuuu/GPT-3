@@ -10,9 +10,9 @@ GPT-3
 ![Screenshot from 2023-08-06 17-03-29](https://github.com/bokhuuu/GPT-3/assets/126252413/6612da45-8d45-4cf0-8672-1475a2576c7a)
 
 # Technologies Used
-- React    
- - React functional components and their reusability    
- - React file and folder structure    
+- React      
+  - React functional components and their reusability    
+  - React file and folder structure    
 
 - CSS  
   - Flex and Grid  
