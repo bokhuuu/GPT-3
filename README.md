@@ -11,13 +11,13 @@ GPT-3
 
 # Technologies Used
 - React    
-functional components and their reusability    
-file and folder structure    
+ - React functional components and their reusability    
+ - React file and folder structure    
 
 - CSS  
-  flex and grid  
-  media queries  
-  keyframe and gradients    
+  - Flex and Grid  
+  - Media queries  
+  - Keyframe and Gradients    
 
 - HTML    
 - Git and Github  
