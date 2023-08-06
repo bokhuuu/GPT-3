@@ -3,7 +3,7 @@
 GPT-3
 # Project Link
 You can find the live version of this project here:
-[GPT-3](https://celebrated-twilight-42be43.netlify.app/)
+[Live Site](https://celebrated-twilight-42be43.netlify.app/)
 
 Features
 Add, edit, and delete tasks
