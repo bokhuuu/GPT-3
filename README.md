@@ -21,7 +21,7 @@ GPT-3
   - Keyframe and Gradients    
 
 - HTML    
-- Git and Github  
+- Git
 - Netlify  
 
 
