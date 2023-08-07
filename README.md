@@ -1,29 +1,8 @@
-# Project Name
-GPT-3
+# React + Vite
 
-# General
-- View the optimal layout for the site depending device's screen size  
-- Use internal links for navigation
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# Project Link and Screenshot
-[Go Live](https://gpt-3-deployed.netlify.app/)  
-![Screenshot from 2023-08-06 17-03-29](https://github.com/bokhuuu/GPT-3/assets/126252413/6612da45-8d45-4cf0-8672-1475a2576c7a)
+Currently, two official plugins are available:
 
-# Technologies Used
-- React      
-  - React functional components and their reusability    
-  - React file and folder structure
-  - React props
-
-- CSS  
-  - Flex and Grid  
-  - Media queries  
-  - Keyframe and Gradients    
-
-- HTML    
-- Git
-- Netlify  
-
-
-
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
