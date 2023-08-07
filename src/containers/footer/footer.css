@@ -63,7 +63,7 @@
     flex-direction: column;
 }
 
-.gpt3__footer-links-logo img {
+.gpt3__footer-link-logo img {
     width: 118px;
     height: 30px;
 
@@ -142,5 +142,11 @@
     .gpt3__footer-heading h1 {
         font-size: 27px;
         line-height: 38px;
+    }
+}
+
+@media screen and (min-width: 1038px) {
+    .gpt3__footer-links {
+        flex-wrap: nowrap;
     }
 }
