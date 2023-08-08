@@ -142,3 +142,15 @@
         line-height: 38px;
     }
 }
+
+@media screen and (max-width: 400px) {
+    .gpt3__footer-links div {
+        flex-wrap: nowrap;
+    }
+}
+
+@media screen and (min-width: 1038px) {
+    .gpt3__footer-links {
+        flex-wrap: nowrap;
+    }
+}
