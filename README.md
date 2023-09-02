@@ -1,5 +1,5 @@
 ## Project Name 
-GPT-3
+gpt-3
 ## General  
 - view the optimal layout for the app depending on device's screen size
 - navigate to internal links via navigation bar
